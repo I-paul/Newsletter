@@ -4,7 +4,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-bottom: 2.5rem;
+  padding-bottom: 3rem;
 }
 
 .hero-banner {
@@ -15,44 +15,123 @@
 }
 
 .hero-content {
-  max-width: 900px;
-  margin-top: -60px;
-  background: rgba(255,255,255,0.95);
-  box-shadow: 0 4px 24px rgba(30, 40, 90, 0.07);
-  border-radius: 12px;
-  padding: 2rem 2.5rem;
-  text-align: center;
+  max-width: 950px;
+  margin: -80px auto 0;
+  background: rgba(255, 255, 255, 0.97);
+  backdrop-filter: blur(10px);
+  box-shadow: 0 8px 32px rgba(30, 40, 90, 0.12);
+  border-radius: 16px;
+  padding: 3rem 3.5rem;
+  text-align: left;
   position: relative;
   z-index: 2;
+  border: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .hero-title {
-  font-size: 2.2rem;
+  font-size: 1.5rem;
   color: #1a237e;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1.4rem;
   font-weight: 700;
   letter-spacing: 1px;
   background: linear-gradient(90deg, #00c6fb 0%, #005bea 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-family: 'Arial', sans-serif;
 }
 
-.hero-intro {
-  font-size: 1.15rem;
-  color: #333;
-  line-height: 1.7;
+.hero-description {
+  text-align: left;
+  max-width: 100%;
+}
+
+.hero-intro-paragraph {
+  font-size: 1.1rem;
+  color: #2c3e50;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  font-weight: 400;
+  text-align: justify;
+}
+
+.hero-focus-paragraph {
+  font-size: 1.05rem;
+  color: #34495e;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-left: 4px solid #005bea;
+  border-radius: 8px;
+  font-style: italic;
+  text-align: justify;
+}
+
+.hero-closing {
+  font-size: 1rem;
+  color: #495057;
+  line-height: 1.6;
   margin: 0;
+  text-align: center;
+  font-weight: 500;
+  padding-top: 1rem;
+  border-top: 2px solid #e9ecef;
 }
 
-@media (max-width: 700px) {
+/* Hover effects */
+.hero-content:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 40px rgba(30, 40, 90, 0.15);
+  transition: all 0.3s ease;
+}
+
+/* Professional accents */
+.hero-intro-paragraph::first-letter {
+  font-size: 1.4em;
+  font-weight: 700;
+  color: #005bea;
+}
+
+@media (max-width: 768px) {
   .hero-content {
-    padding: 1.2rem 1rem;
-    margin-top: -30px;
+    padding: 2rem 1.5rem;
+    margin: -50px 1rem 0;
+    border-radius: 12px;
   }
+  
   .hero-title {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
+    margin-bottom: 1.5rem;
   }
-  .hero-intro {
+  
+  .hero-intro-paragraph {
     font-size: 1rem;
+    text-align: left;
+  }
+  
+  .hero-focus-paragraph {
+    font-size: 0.95rem;
+    padding: 1rem;
+    text-align: left;
+  }
+  
+  .hero-closing {
+    font-size: 0.9rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-content {
+    padding: 1.5rem 1rem;
+  }
+  
+  .hero-title {
+    font-size: 1.5rem;
+  }
+  
+  .hero-intro-paragraph,
+  .hero-focus-paragraph,
+  .hero-closing {
+    font-size: 0.9rem;
   }
 }
