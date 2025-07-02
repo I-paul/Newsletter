@@ -1,7 +1,7 @@
 .navbar {
   width: 100%;
-  background: #fff;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+  background: var(--nav-bg);
+  box-shadow: 0 2px 8px var(--shadow-sm);
   position: sticky;
   top: 0;
   z-index: 100;
@@ -18,12 +18,15 @@
 }
 
 .navbar-logo a {
+  color: var(--nav-text);
   text-decoration: none;
-  font-size: 1.3rem;
-  color: #1a237e;
-  margin: 0;
-  letter-spacing: 1px;
+  font-size: 1.5rem;
   font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+.navbar-logo a:hover {
+  color: var(--nav-text-hover);
 }
 
 .navbar-links {
@@ -32,17 +35,33 @@
 }
 
 .navbar-links a {
-  color: #222;
+  color: var(--nav-text-hover);
   text-decoration: none;
   font-weight: 500;
   transition: color 0.2s;
   font-size: 1rem;
+  padding: 0.5rem 0;
+  position: relative;
 }
 
 .navbar-links a:hover {
-  color: #1976d2;
+  color: var(--nav-text-active);
 }
 
+.navbar-links a::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: var(--nav-text-active);
+  transition: width 0.3s ease;
+}
+
+.navbar-links a:hover::after {
+  width: 100%;
+}
 
 .hamburger {
   display: none;
@@ -51,6 +70,12 @@
   font-size: 2rem;
   cursor: pointer;
   margin-left: 1.5rem;
+  color: var(--nav-text);
+  transition: color 0.2s;
+}
+
+.hamburger:hover {
+  color: var(--nav-text-hover);
 }
 
 @media (max-width: 900px) {
@@ -79,22 +104,37 @@
     right: 0;
     width: 80vw;
     height: 100vh;
-    background: #fff;
-    box-shadow: -2px 0 12px rgba(0,0,0,0.12);
+    background: var(--nav-bg);
+    box-shadow: -2px 0 12px var(--shadow-lg);
     display: flex;
     flex-direction: column;
     padding: 2.5rem 1.5rem 1.5rem 2rem;
     gap: 2rem;
     z-index: 200;
+    border-left: 1px solid var(--nav-border);
   }
   .mobile-menu a {
     font-size: 1.2rem;
-    color: #222;
+    color: var(--nav-text);
     text-decoration: none;
     font-weight: 500;
     margin-bottom: 1rem;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid var(--nav-border);
+    transition: all 0.2s;
   }
   .mobile-menu a:hover {
-    color: #1976d2;
+    color: var(--nav-text-active);
+    padding-left: 0.5rem;
+  }
+  
+  .mobile-menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: var(--overlay-dark);
+    z-index: 150;
   }
 }

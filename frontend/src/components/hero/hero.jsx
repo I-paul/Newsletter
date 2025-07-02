@@ -5,7 +5,7 @@ import "./hero.css";
 
 const Hero = () => {
   const Data = {
-    intro: "Welcome to this issue of Weekly News Tracker. ",
+    intro: "THIS WEEK IN MOBILITY",
     Desc1: " Frost & Sullivan's industry-leading global Mobility practice has over 200+ automotive industry experts across 30+ countries, providing a continuous stream of top-quality market intelligence on personal and freight mobility.",
     Desc2: "This weekly Mobility Newsletter, offers a concise, timely and focused insights, helping our clients to understand the potential implications of emerging developments, and stay ahead of the competition.",
     Desc3: "It highlights trends that, we believe, will generate transformative challenges and growth opportunities across key domains, including powertrain & electric vehicles, connectivity, autonomous, shared mobility, aftermarket, leasing & rental and logistics & supply chain.",

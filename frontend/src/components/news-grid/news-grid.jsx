@@ -66,10 +66,13 @@ const NewsGrid = () => {
                 rel="noopener noreferrer"
                 className="news-card"
                 key={article.title + idx}
+                initial="hidden"
+                whileInView="visible"
                 variants={{
                   hidden: { opacity: 0, y: 30 },
                   visible: { opacity: 1, y: 0 },
                 }}
+                whileHover={{ scale: 1.03 , boxShadow: "0 9px 32px var(--text-light)" ,borderLeftColor: "var(--btn-secondary-bg)"}}
                 transition={{ duration: 0.5, ease: "easeOut" }}
               >
                 <img

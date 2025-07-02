@@ -10,15 +10,16 @@
 
 .news-section-title {
   font-size: 2rem;
-  color: #08a4a7;
+  color: var(--brand-secondary);
   margin-bottom: 1.5rem;
   font-weight: 700;
   letter-spacing: 1px;
-  border-left: 5px solid #00b4d8;
+  border-left: 5px solid var(--brand-secondary);
   padding-left: 0.7rem;
-  background: linear-gradient(90deg, #90e0ef 0%, #0077b6 100%);
+  background: var(--gradient-secondary);
   border-radius: 0 8px 8px 0;
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
@@ -33,61 +34,30 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  background: #fefefe;
-  border-radius: 0;
+  background: var(--card-bg);
   text-decoration: none;
-  color: #222;
+  color: var(--text-primary);
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
   overflow: hidden;
-  min-height: 380px;
-  background: linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%);
-  box-shadow: 
-    2px 4px 8px rgba(0, 0, 0, 0.1),
-    0 0 0 1px rgba(0, 0, 0, 0.05),
-    inset -1px 0 0 rgba(0, 0, 0, 0.02);
+  min-height: 310px;
   border-top-right-radius: 2px;
   border-bottom-right-radius: 2px;
-  border-left: 4px solid #e9ecef;
-  background-image: 
-    linear-gradient(90deg, transparent 0%, transparent 2%, rgba(0,0,0,0.02) 2%, rgba(0,0,0,0.02) 3%, transparent 3%),
-    repeating-linear-gradient(0deg, transparent, transparent 23px, rgba(0,0,0,0.03) 24px);
+  border-left: 4px solid var(--border-secondary);
 }
 
-.news-card:hover {
-  transform: translateY(-8px) rotateY(-2deg) rotateX(2deg);
-  box-shadow: 
-    8px 16px 32px rgba(0, 0, 0, 0.15),
-    0 0 0 1px rgba(0, 198, 251, 0.1),
-    inset -2px 0 0 rgba(0, 198, 251, 0.05);
-  border-left-color: #00c6fb;
-}
 
-.news-card::after {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 25px;
-  right: 0;
-  bottom: 0;
-  background-image: repeating-linear-gradient(
-    0deg,
-    transparent,
-    transparent 29px,
-    rgba(0, 0, 0, 0.03) 30px
-  );
-  pointer-events: none;
-  z-index: 0;
-}
 
 .news-card-img {
   width: 100%;
+  max-width: fit-content;
   height: 180px;
   object-fit: cover;
   position: relative;
   z-index: 2;
-  margin: 15px 20px 10px 35px;
-  border: 3px solid #fff;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  align-self: center;
+  margin: 20px 0px 20px 0px;
+  border: 3px solid var(--surface-primary);
+  box-shadow: 0 2px 8px var(--shadow-md);
   height: 140px;
   border-radius: 2px;
 }
@@ -105,7 +75,7 @@
 .news-card-title {
   font-size: 1.1rem;
   font-weight: 600;
-  color: #2c3e50;
+  color: var(--text-primary);
   margin: 0;
   line-height: 1.5;
   cursor: pointer;
@@ -114,24 +84,6 @@
   letter-spacing: 0.3px;
 }
 
-.news-card:hover {
-  box-shadow: 
-    6px 12px 24px rgba(0, 0, 0, 0.1),
-    inset -1px 0 0 rgba(0, 198, 251, 0.05);
-}
-
-.news-card::before {
-  background: 
-    linear-gradient(-45deg, transparent 40%, rgba(0,0,0,0.03) 50%, rgba(0,0,0,0.08) 100%),
-    linear-gradient(45deg, transparent 40%, rgba(255,255,255,0.8) 50%);
-}
-
-/* Add subtle page aging effect */
-.news-card {
-  background: 
-    radial-gradient(circle at 100% 0%, rgba(245, 245, 220, 0.3) 0%, transparent 50%),
-    linear-gradient(145deg, #ffffff 0%, #f8f9fa 100%);
-}
 
 @media (max-width: 700px) {
   .news-section-title {
