@@ -125,6 +125,9 @@
   --gradient-secondary: linear-gradient(135deg, #278376 0%, #00b0f0 100%);
   --gradient-accent: linear-gradient(135deg, #f26722 0%, #ff8a50 100%);
   --gradient-hero: linear-gradient(135deg, #172d55 0%, #17426b 50%, #1582c5 100%);
+  
+  /* Font Families */
+  --font-main: 'Nunito Sans', Arial, sans-serif;
 }
 
 html {
@@ -134,6 +137,6 @@ html {
 body{
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
+  font-family: var(--font-main);
   background-color: var(--bg-dark);
 }

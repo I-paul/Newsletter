@@ -8,7 +8,7 @@ const Navbar = () => {
 
   return (
     <motion.nav
-      className="sticky top-0 z-50  bg-[#17426b] backdrop-blur-sm px-4 py-2  "
+      className="sticky top-0 z-50  bg-[#17426b] backdrop-blur-sm px-4 py-2   "
       initial={{ y: -100 }}
       animate={{ y: 0 }}
       transition={{ duration: 0.5 }}
