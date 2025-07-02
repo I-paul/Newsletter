@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import newsData from "../../data/newsData.json";
 import "./news-grid.css";

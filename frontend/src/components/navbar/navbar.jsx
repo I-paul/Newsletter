@@ -25,7 +25,7 @@ const Navbar = () => {
           <a href="#government">Government News</a>
         </div>
         <button
-          className="hamburger"
+          className="hamburger z-300"
           aria-label="Toggle menu"
           onClick={() => setHamburger((prev) => !prev)}
         >
@@ -37,21 +37,12 @@ const Navbar = () => {
       <AnimatePresence>
         {hamburger && (
           <motion.div
-            className="mobile-menu"
+            className="mobile-menu hidden "
             initial={{ x: "100%" }}
             animate={{ x: 0 }}
             exit={{ x: "100%" }}
             transition={{ duration: 0.3 }}
           >
-            {/* <button
-              className="hamburger"
-              aria-label="Toggle menu"
-              onClick={() => setHamburger((prev) => !prev)}
-            >
-              <span className={hamburger ? "close" : ""}>
-                {hamburger ? "✕" : "☰"}
-              </span>
-          </ button> */}
             <a href="#auto" onClick={() => setHamburger(false)}>Automaker News</a>
             <a href="#supplier" onClick={() => setHamburger(false)}>Supplier News</a>
             <a href="#government" onClick={() => setHamburger(false)}>Government News</a>
