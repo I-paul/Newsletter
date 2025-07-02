@@ -66,7 +66,6 @@ const NewsGrid = () => {
                 rel="noopener noreferrer"
                 className="news-card"
                 key={article.title + idx}
-                initial="hidden"
                 whileInView="visible"
                 variants={{
                   hidden: { opacity: 0, y: 30 },
