@@ -33,10 +33,10 @@ const NewsGrid = () => {
         <section
           key={section}
           id={sectionAnchors[section]}
-          className="news-section"
+          className="news-section nth-[1]:bg-[var(--bg-dark)] nth-[2]:bg-[var(--brand-primary)]  nth-[3]:bg-[var(--input-border-focus)]"
         >
           <motion.h2
-            className="news-section-title"
+            className="news-section-title "
             initial={{ opacity: 0, y: 30 }}
             whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
