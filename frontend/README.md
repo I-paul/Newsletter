@@ -1,12 +1,82 @@
-# React + Vite
+# 📰 Newsletter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and responsive static newsletter webpage built using **React**, **Vite**, **Framer Motion**, and modular styling. This project showcases weekly mobility and automotive news in a categorized layout.
 
-Currently, two official plugins are available:
+> Built as part of an internship task using frontend development skills with an emphasis on structure, design, and usability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Categorized news sections 
+- Fully static frontend – no backend required
+- Responsive design
+- Smooth animations with Framer Motion
+- Data-driven layout using specific JSON file
+- Easy to extend and maintain
+
+---
+
+## 🛠️ Tech Stack
+
+- React (with Vite)
+- Framer Motion (animations)
+- CSS Modules and Tailwind CSS (styling)
+- JSON (local data source)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/I-paul/Newsletter.git
+cd frontend
+npm install
+npm run dev
+```
+
+Visit the app at: `http://localhost:5173`
+
+---
+
+## 📦 Production Build
+
+```bash
+npm run build
+npm run preview
+```
+
+This will generate an optimized static build and preview it locally.
+
+---
+
+## 🧩 Customization
+
+- Update article content in `src/data/newsData.json`
+- Add or reorder sections in `NewsGrid.jsx`
+
+---
+
+## 📌 Notes
+
+- No backend or server logic
+- Ideal for deployment on Netlify, Vercel, or GitHub Pages
+- Simple and efficient static site.
+-
+
+---
+
+## 👨‍💻 Developer
+
+**Name:** Israel Paul  
+**Email:** [your-email@example.com]  
+**LinkedIn:** [linkedin.com/in/yourprofile](#)  
+**GitHub:** [github.com/yourusername](#)
+
+---
+
+## 📝 License
+
+Built for internship at Frost & Sullivan.
+
+---
