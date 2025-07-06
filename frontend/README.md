@@ -69,9 +69,9 @@ This will generate an optimized static build and preview it locally.
 ## 👨‍💻 Developer
 
 **Name:** Israel Paul  
-**Email:** [your-email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile](#)  
-**GitHub:** [github.com/yourusername](#)
+**Email:** [israelpaul.k@gmail.com]  
+**LinkedIn:** [https://www.linkedin.com/in/israel-paul-1b6034273/](#)  
+**GitHub:** [https://github.com/I-paul](#)
 
 ---
 
