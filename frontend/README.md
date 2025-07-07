@@ -10,7 +10,7 @@ A clean and responsive static newsletter webpage built using **React**, **Vite**
 
 - Categorized news sections 
 - Fully static frontend – no backend required
-- Responsive design
+- Responsive design for all devices
 - Smooth animations with Framer Motion
 - Data-driven layout using specific JSON file
 - Easy to extend and maintain
@@ -23,6 +23,30 @@ A clean and responsive static newsletter webpage built using **React**, **Vite**
 - Framer Motion (animations)
 - CSS Modules and Tailwind CSS (styling)
 - JSON (local data source)
+
+---
+📁 project-root/
+ ┣ 📁 dist/                # Production build (generated)
+ ┣ 📁 node_modules/        # Project dependencies
+ ┣ 📁 public/              # Static assets
+ ┣ 📁 src/                 
+ ┃ ┣ 📁 assets/            # Images, icons, etc.
+ ┃ ┣ 📁 components/        
+ ┃ ┃ ┣ 📁 footer/          # Footer layout
+ ┃ ┃ ┣ 📁 hero/            # Hero section
+ ┃ ┃ ┣ 📁 navbar/          # Navigation bar
+ ┃ ┃ ┗ 📁 news-grid/       # News grid and layout logic
+ ┃ ┣ 📁 data/              # Local JSON data (news articles)
+ ┃ ┣ 📄 App.css            # Global styles
+ ┃ ┣ 📄 App.jsx            # Root React component
+ ┃ ┗ 📄 main.jsx           # Entry point for rendering
+ ┣ 📄 .gitignore           # Files and folders to ignore in Git
+ ┣ 📄 eslint.config.js     # ESLint configuration
+ ┣ 📄 index.html           # Root HTML file
+ ┣ 📄 package.json         # Project metadata and scripts
+ ┣ 📄 package-lock.json    # Dependency lock file
+ ┣ 📄 vite.config.js       # Vite configuration
+ ┗ 📄 README.md            
 
 ---
 
@@ -60,9 +84,9 @@ This will generate an optimized static build and preview it locally.
 ## 📌 Notes
 
 - No backend or server logic
-- Ideal for deployment on Netlify, Vercel, or GitHub Pages
+- Ideal for deployment on Netlify, Vercel, or GitHub Pages.
 - Simple and efficient static site.
--
+- Minimal animations for smooth UX.
 
 ---
 
