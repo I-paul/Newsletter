@@ -25,7 +25,7 @@ A clean and responsive static newsletter webpage built using **React**, **Vite**
 - JSON (local data source)
 
 ---
-Project Structure
+## 🗄️Project Structure
 
 ```text
 📁 project-root/
