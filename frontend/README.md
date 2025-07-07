@@ -25,6 +25,9 @@ A clean and responsive static newsletter webpage built using **React**, **Vite**
 - JSON (local data source)
 
 ---
+Project Structure
+
+```text
 📁 project-root/
  ┣ 📁 dist/                # Production build (generated)
  ┣ 📁 node_modules/        # Project dependencies
@@ -47,7 +50,7 @@ A clean and responsive static newsletter webpage built using **React**, **Vite**
  ┣ 📄 package-lock.json    # Dependency lock file
  ┣ 📄 vite.config.js       # Vite configuration
  ┗ 📄 README.md            
-
+```
 ---
 
 ## 🚀 Getting Started
