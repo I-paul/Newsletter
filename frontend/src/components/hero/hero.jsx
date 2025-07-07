@@ -1,5 +1,4 @@
 import { motion } from "framer-motion";
-import Banner from "../../assets/banner.jpg"; 
 import "./hero.css";
 
 const Hero = () => {
@@ -14,7 +13,7 @@ const Hero = () => {
   return (
     <section className="hero-section">
       <motion.img
-        src={Banner}
+        src='https://www.fs-moads.com/research/images/mailer/jul_7/banner.jpg'
         alt="Newsletter Banner"
         className="hero-banner"
         initial={{ opacity: 0, scale: 1.05 }}

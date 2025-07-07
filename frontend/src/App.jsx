@@ -4,6 +4,7 @@ import Navbar from "./components/navbar/navbar";
 import Hero from "./components/hero/hero";
 import NewsGrid from "./components/news-grid/news-grid";
 import Footer from "./components/footer/footer";
+import Webinar from "./components/webinar/webinar";
 
 const App = () => {
   const [search, setSearch] = useState("");
@@ -13,6 +14,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <NewsGrid />
+      <Webinar />
       <Footer/>
     </div>
   );
