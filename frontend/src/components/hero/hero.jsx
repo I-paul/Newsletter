@@ -22,7 +22,7 @@ const Hero = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, ease: "easeOut" }}
         />
-        <div className="p-3 w-full h-[320px] absolute cursor-default justify-center md:p-10 text-[var(--text-primary)]">
+        <div className="p-3 w-full h-[320px] absolute cursor-default justify-center md:p-10 text-[var(--text-light)]">
           <div className="text-2xl pl-[0.5rem] pt-16 font-bold md:text-4xl md:pl-[2rem] lg:pl-[4rem] ">
             THE WEEK IN MOBILITY
           </div>

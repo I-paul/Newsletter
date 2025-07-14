@@ -17,11 +17,12 @@ const Footer = () => {
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
         >
-            <p className="text-lg font-bold text-[var(--footer-text)] mb-4 cursor-default">
+            <p className="text-sm sm:text-lg font-bold text-[var(--footer-text)] mb-4 cursor-default">
                 {content.desc} <br />   
                 {content.cancel}
             </p>
-            <div className="flex hover:text-[var(--footer-link-hover)] hover:translate-y-[-2px]  hover:decoration- hover:underline hover:underline-offset-6 text-[var(--footer-text)] duration-75  ease-in items-center justify-center space-x-2 mb-4 cursor-default">
+            <div className="flex hover:text-[var(--footer-link-hover)] hover:translate-y-[-2px]  hover:decoration- hover:underline hover:underline-offset-6 
+                            duration-75  ease-in items-center justify-center space-x-2 mb-4 cursor-default text-[var(--footer-text)] text-[0.8rem] sm:text-[1rem]">
                 {content.Copyright}
             </div>
         </motion.div>

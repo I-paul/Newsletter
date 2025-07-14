@@ -71,8 +71,8 @@ const NewsGrid = () => {
                   hidden: { opacity: 0, y: 30 },
                   visible: { opacity: 1, y: 0 },
                 }}
-                whileHover={{ scale: 1.03 , boxShadow: "0 9px 32px var(--text-light)" ,borderLeftColor: "var(--btn-secondary-bg)"}}
-                transition={{ duration: 0.7, ease: "easeInOut" }}
+                whileHover={{ scale: 1.01 , boxShadow: "0 9px 32px var(--text-light)" ,borderLeftColor: "var(--btn-secondary-bg)"}}
+                transition={{ duration: 0.5, ease: "easeInOut" }}
               >
                 <img
                   src={article.image}
@@ -84,7 +84,7 @@ const NewsGrid = () => {
                   <motion.h3
                     className="news-card-title"
                     whileHover={{
-                      color: "#fff",
+                      color: "#000",
                       scale: 1.03,
                       textShadow: "0px 2px 12px #005bea55",
                     }}
