@@ -101,7 +101,7 @@
   
   /* Footer Colors */
   --footer-bg: #7f7f7f;
-  --footer-text: #ffffff;
+  --footer-text: #278376;
   --footer-link: #bcd9ee;
   --footer-link-hover: #00b0f0;
   
@@ -123,8 +123,8 @@
   /* Gradient Backgrounds */
   --gradient-primary: linear-gradient(360deg, #17426b 0%, #1582c5 100%);
   --gradient-secondary: linear-gradient(135deg, #278376 0%, #00b0f0 100%);
-  --gradient-accent: linear-gradient(135deg, #f26722 0%, #ff8a50 100%);
-  --gradient-hero: linear-gradient(135deg, #172d55 0%, #17426b 50%, #1582c5 100%);
+  --gradient-accent: linear-gradient(135deg, #f26722 0%, #278376 100%);
+  --gradient-hero: linear-gradient(135deg, #1582c5 0%, #278376 50%, #17426b 100%);
   --gradient-title: linear-gradient(135deg, #172d55 0%, #278376 100%);
   
   /* Font Families */
@@ -136,10 +136,10 @@
 html {
   scroll-behavior: smooth;
   scrollbar-width: thin;
-  scrollbar-color: var(--brand-accent)  var(--brand-primary);}
+  scrollbar-color: var(--brand-accent)  var(--footer-link);}
 body{
   margin: 0;
   padding: 0;
   font-family: var(--font-main);
-  background: var(--gradient-primary);
+  background: var(--bg-primary );
 }

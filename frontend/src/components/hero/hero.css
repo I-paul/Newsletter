@@ -8,12 +8,7 @@
   padding-bottom: 3rem;
 }
 
-.hero-banner {
-  width: 100%;
-  max-height: 320px;
-  object-fit: cover;
-  border-bottom: 4px solid var(--brand-primary);
-}
+
 
 .hero-content {
   max-width: 950px;
@@ -24,7 +19,7 @@
   border-radius: 16px;
   padding: 3rem 3.5rem;
   text-align: left;
-  position: relative;
+  /* position: relative; */
   z-index: 2;
   border: 1px solid rgba(255, 255, 255, 0.2);
   transition: all 0.3s ease;

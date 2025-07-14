@@ -3,7 +3,7 @@ import "./hero.css";
 
 const Hero = () => {
   const Data = {
-    intro: "THIS WEEK IN MOBILITY",
+    intro: "Welcome to this issue of weekly news tracker",
     Desc1: " Frost & Sullivan's industry-leading global Mobility practice has over 200+ automotive industry experts across 30+ countries, providing a continuous stream of top-quality market intelligence on personal and freight mobility.",
     Desc2: "This weekly Mobility Newsletter, offers a concise, timely and focused insights, helping our clients to understand the potential implications of emerging developments, and stay ahead of the competition.",
     Desc3: "It highlights trends that, we believe, will generate transformative challenges and growth opportunities across key domains, including powertrain & electric vehicles, connectivity, autonomous, shared mobility, aftermarket, leasing & rental and logistics & supply chain.",
@@ -12,14 +12,25 @@ const Hero = () => {
 
   return (
     <section className="hero-section">
-      <motion.img
-        src='https://www.fs-moads.com/research/images/mailer/jul_7/banner.jpg'
-        alt="Newsletter Banner"
-        className="hero-banner"
-        initial={{ opacity: 0, scale: 1.05 }}
-        animate={{ opacity: 1, scale: 1 }}
-        transition={{ duration: 0.8, ease: "easeOut" }}
-      />
+      <div className="relative w-full h-[320px] font-[var(--font-main)] bg-gradient-to-tl from-[var(--brand-accent)] to-[var(--info)]">
+        <motion.img
+          src='https://www.fs-moads.com/research/images/mailer/jul_7/banner.jpg'
+          alt="Newsletter Banner"
+          className="w-full h-full object-cover border-b-4 border-[var(--brand-accent)] absolute mix-blend-overlay"
+          loading="lazy"
+          initial={{ opacity: 0, scale: 1.05 }}
+          animate={{ opacity: 1, scale: 1 }}
+          transition={{ duration: 0.8, ease: "easeOut" }}
+        />
+        <div className="p-3 w-full h-[320px] absolute cursor-default justify-center md:p-10 text-[var(--text-primary)]">
+          <div className="text-2xl pl-[0.5rem] pt-16 font-bold md:text-4xl md:pl-[2rem] lg:pl-[4rem] ">
+            THE WEEK IN MOBILITY
+          </div>
+          <div className="text-lg pl-[0.5rem] pt-3 text-light md:text-xl md:pl-[2rem] lg:pl-[4rem]  ">
+            Frost & Sullivan's Weekly News Tracker
+          </div>
+        </div>
+      </div>
       <motion.div
         className="hero-content"
         initial={{ y: 40, opacity: 0 }}

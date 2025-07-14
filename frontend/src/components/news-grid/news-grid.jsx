@@ -33,7 +33,7 @@ const NewsGrid = () => {
         <section
           key={section}
           id={sectionAnchors[section]}
-          className="news-section nth-[1]:bg-[var(--bg-dark)] nth-[2]:bg-[var(--brand-primary)]  nth-[3]:bg-[var(--input-border-focus)]"
+          className="news-section nth-[1]:bg-[var(--bg-dark)] nth-[2]:bg-[var(--link-hover)]  nth-[3]:bg-[var(--input-border-focus)]"
         >
           <motion.h2
             className="news-section-title "
@@ -72,7 +72,7 @@ const NewsGrid = () => {
                   visible: { opacity: 1, y: 0 },
                 }}
                 whileHover={{ scale: 1.03 , boxShadow: "0 9px 32px var(--text-light)" ,borderLeftColor: "var(--btn-secondary-bg)"}}
-                transition={{ duration: 0.5, ease: "easeOut" }}
+                transition={{ duration: 0.7, ease: "easeInOut" }}
               >
                 <img
                   src={article.image}
@@ -84,7 +84,7 @@ const NewsGrid = () => {
                   <motion.h3
                     className="news-card-title"
                     whileHover={{
-                      color: "#00c6fb",
+                      color: "#fff",
                       scale: 1.03,
                       textShadow: "0px 2px 12px #005bea55",
                     }}
