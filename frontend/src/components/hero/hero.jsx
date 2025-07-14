@@ -14,7 +14,7 @@ const Hero = () => {
     <section className="hero-section">
       <div className="relative w-full h-[320px] font-[var(--font-main)] bg-gradient-to-tl from-[var(--brand-accent)] to-[var(--info)]">
         <motion.img
-          src='https://www.fs-moads.com/research/images/mailer/jul_7/banner.jpg'
+          src='https://fs-moads.com/research/images/mailer/jul_14/banner.webp'
           alt="Newsletter Banner"
           className="w-full h-full object-cover border-b-4 border-[var(--brand-accent)] absolute mix-blend-overlay"
           loading="lazy"
