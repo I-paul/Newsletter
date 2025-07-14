@@ -104,6 +104,7 @@ This will generate an optimized static build and preview it locally.
 
 ## 📝 License
 
-Built for internship at Frost & Sullivan.
+This project was developed as part of an internship assignment for Frost & Sullivan.
+All intellectual property rights related to the submitted work remain subject to the terms of the internship agreement.
 
 ---
