@@ -1,6 +1,7 @@
 import './navbar.css';
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
+import logo from '../../assets/logo.png';
 
 const Navbar = () => {
   const [hamburger, setHamburger] = useState(false);
@@ -16,7 +17,7 @@ const Navbar = () => {
       <div className="navbar-content">
         <div className="navbar-logo">
           <a href="#">
-            <img src="/logo.png" alt="Logo" className="w-60" />
+            <img src={logo} alt="Logo" className="w-60" />
           </a>
         </div>
         <div className={`navbar-links ${hamburger ? "active" : ""}`}>

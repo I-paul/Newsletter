@@ -1,10 +1,11 @@
-import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
-import tailwindcss from '@tailwindcss/vite'
+// vite.config.js
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react';
+import tailwindcss from '@tailwindcss/vite';
 
-// https://vite.dev/config/
 export default defineConfig({
+  base: '/research/mobilitynewstracker/jul_14/dist/',
   plugins: [react(),
-    tailwindcss(),
+    tailwindcss (),
   ],
-})
+});

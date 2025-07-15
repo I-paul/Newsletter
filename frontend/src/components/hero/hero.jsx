@@ -17,7 +17,6 @@ const Hero = () => {
           src='https://fs-moads.com/research/images/mailer/jul_14/banner.webp'
           alt="Newsletter Banner"
           className="w-full h-full object-cover border-b-4 border-[var(--brand-accent)] absolute mix-blend-overlay"
-          loading="lazy"
           initial={{ opacity: 0, scale: 1.05 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, ease: "easeOut" }}
