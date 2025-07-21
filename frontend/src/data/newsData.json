@@ -1,304 +1,394 @@
 {
   "articles": [
     {
-      "title": "Nissan in BEV production talks with Foxconn",
-      "link": "https://www.just-auto.com/news/nissan-in-bev-production-talks-with-foxconn-reports/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_1.webp",
-      "section": "Automakers News Alerts"
+      "title": "Honda, Nissan discussing co-developing vehicle software",
+      "link": "https://www.just-auto.com/news/honda-nissan-discussing-co-developing-vehicle-software/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_1.webp"
     },
     {
-      "title": "China\u2019s GAC Fiat Chrysler JV declared bankrupt",
-      "link": "https://www.just-auto.com/news/chinas-gac-fiat-chrysler-declared-bankrupt/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_2.webp",
-      "section": "Automakers News Alerts"
+      "title": "Volvo Cars takes $1.2bn hit due to launch delays, new tariffs",
+      "link": "https://www.just-auto.com/news/volvo-cars-impairment-charge/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_2.webp"
     },
     {
-      "title": "Tesla\u2019s EVs to integrate xAI\u2019s Grok AI",
-      "link": "https://www.just-auto.com/news/tesla-evs-grok-ai/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_3.webp",
-      "section": "Automakers News Alerts"
+      "title": "Geely steps up efforts to take full control of Zeekr",
+      "link": "https://www.just-auto.com/news/geely-steps-up-efforts-to-take-full-control-of-zeekr/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_3.webp"
     },
     {
-      "title": "Stellantis\u2019 Mobilisights, Hiboo partner to enhance smart vehicle management",
-      "link": "https://www.just-auto.com/news/mobilisights-hiboo-vehicle-management/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_4.webp",
-      "section": "Automakers News Alerts"
-    },  
-    {
-      "title": "Nissan considers exporting EVs from China",
-      "link": "https://www.electrive.com/2025/07/08/nissan-considers-exporting-evs-from-china/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_5.webp",
-      "section": "Automakers News Alerts"
+      "title": "Hyundai integrates Google Places to enhance the navigation experience",
+      "link": "https://www.automotiveinteriorsworld.com/news/infotainment/hyundai-integrates-google-places-to-enhance-the-navigation-experience.html",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_4.webp"
     },
     {
-      "title": "JLR to equip sustainable automotive tyres with 70% recycled materials",
-      "link": "https://www.just-auto.com/news/jlr-sustainable-tyres/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_6.webp",
-      "section": "Automakers News Alerts"
+      "title": "Mercedes-Benz brings Microsoft Teams calls to cars",
+      "link": "https://www.just-auto.com/news/mercedes-benz-brings-microsoft-teams-calls-to-cars/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_5.webp"
     },
     {
-      "title": "VinFast issues new bonds worth US96m",
-      "link": "https://www.just-auto.com/news/vinfast-issues-new-bonds-worth-us96m/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_7.webp",
-      "section": "Automakers News Alerts"
+      "title": "Stellantis trying to save key supplier CLN",
+      "link": "https://www.just-auto.com/news/stellantis-trying-to-save-key-supplier-cln-reports/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_6.webp"
     },
     {
-      "title": "Nissan successfully priced \u00a5860 billion in bonds",
-      "link": "https://www.automotiveworld.com/news-releases/nissan-successfully-priced-%c2%a5860-billion-in-bonds/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_8.webp",
-      "section": "Automakers News Alerts"
+      "title": "Ford may use Waymo L4 ADAS technology",
+      "link": "https://telematicswire.net/ford-may-use-waymo-l4-adas-technology/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_7.webp"
     },
     {
-      "title": "BYD unveils L4 autonomous parking in China",
-      "link": "https://telematicswire.net/byd-unveils-l4-autonomous-parking-in-china/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_9.webp",
-      "section": "Automakers News Alerts"
+      "title": "BYD and Chery claimed over \u20ac45mn in ineligible EV subsidies in China",
+      "link": "https://www.electrive.com/2025/07/14/byd-and-chery-claimed-over-e45mn-in-ineligible-ev-subsidies/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_8.webp"
     },
     {
-      "title": "Ford shooting for affordable \u2018Model T of EVs\u2019",
-      "link": "https://www.just-auto.com/news/ford-shooting-for-affordable-model-t-of-evs-ford-ceo/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_10.webp",
-      "section": "Automakers News Alerts"
+      "title": "Hyundai launches new customer rewards program",
+      "link": "https://www.automotiveworld.com/news-releases/hyundai-launches-new-customer-rewards-program/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_9.webp"
     },
     {
-      "title": "Volkswagen Group delivers around 50 percent more all-electric vehicles worldwide",
-      "link": "https://www.automotiveworld.com/news-releases/volkswagen-group-delivers-around-50-percent-more-all-electric-vehicles-worldwide/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_11.webp",
-      "section": "Automakers News Alerts"
+      "title": "GM and Redwood Materials to pursue use of US-built batteries for energy storage",
+      "link": "https://www.greencarcongress.com/2025/07/20250717-redwood.html",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_10.webp"
     },
     {
-      "title": "Xpeng debuts all-new G6 and AI-defined P7+ at Goodwood Festival of Speed, setting a new benchmark for intelligent EV\u2019s",
-      "link": "https://www.automotiveworld.com/news-releases/xpeng-debuts-all-new-g6-and-ai-defined-p7-at-goodwood-festival-of-speed-setting-a-new-benchmark-for-intelligent-evs/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_12.webp",
-      "section": "Automakers News Alerts"
+      "title": "BMW, Momenta agree to collaborate on ADAS development",
+      "link": "https://www.just-auto.com/news/bmw-momenta-agree-to-collaborate-on-adas-development/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_11.webp"
     },
     {
-      "title": "Tata Motors and Dolby team up to elevate Harrier.ev sound experience",
-      "link": "https://www.automotiveinteriorsworld.com/news/sound-system/tata-motors-and-dolby-team-up-to-elevate-harrier-ev-sound-experience.html",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_13.webp",
-      "section": "Automakers News Alerts"
+      "title": "Ford recalls over 694,000 vehicles due to potential fuel injector issue",
+      "link": "https://www.just-auto.com/news/ford-vehicles-recalls/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_12.webp"
     },
     {
-      "title": "VinFast India and BATX Energies signs landmark agreement for high voltage battery recycling and repurposing",
-      "link": "https://www.automotiveworld.com/news-releases/vinfast-india-and-batx-energies-signs-landmark-agreement-for-high-voltage-battery-recycling-and-repurposing/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_14.webp",
-      "section": "Automakers News Alerts"
+      "title": "VinFast, RoadGrid in Indian aftersales partnership",
+      "link": "https://www.just-auto.com/news/vinfast-roadgrid-in-indian-aftersales-partnership/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_13.webp"
     },
     {
-      "title": "Tata Motors introduces Lifetime HV Battery Warranty for Curvv.ev and Nexon.ev 45 kWh",
-      "link": "https://www.automotiveworld.com/news-releases/reimagining-ev-ownership-tata-motors-introduces-lifetime-hv-battery-warranty-for-curvv-ev-and-nexon-ev-45-kwh/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_15.webp",
-      "section": "Automakers News Alerts"
+      "title": "Tesla officially launches Model Y in India",
+      "link": "https://www.electrive.com/2025/07/15/tesla-officially-launches-in-india/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_14.webp"
     },
     {
-      "title": "Geely Auto, Jameel Motors to enter Italian market with NEVs",
-      "link": "https://www.just-auto.com/news/jameel-motors-geely-auto/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_16.webp",
-      "section": "Automakers News Alerts"
+      "title": "JLR and ev.energy partner for V2G pilot project in UK",
+      "link": "https://telematicswire.net/jlr-and-ev-energy-partner-for-v2g-pilot-project-in-uk/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_15.webp"
     },
     {
-      "title": "Chery remains top exporter among Chinese automakers with 1.26 million vehicles sold in H1 2025",
-      "link": "https://www.automotiveworld.com/news-releases/chery-remains-top-exporter-among-chinese-automakers-with-1-26-million-vehicles-sold-in-h1-2025/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_17.webp",
-      "section": "Automakers News Alerts"
+      "title": "Stellantis discontinues hydrogen fuel cell vans in Europe",
+      "link": "https://www.just-auto.com/news/stellantis-discontinues-hydrogen-fuel-cell-vans-in-europe/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_16.webp"
     },
     {
-      "title": "Kia unveils battery-powered EV5",
-      "link": "https://www.just-auto.com/news/kia-unveils-battery-powered-ev5/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_18.webp",
-      "section": "Automakers News Alerts"
+      "title": "Xpeng showcases next-gen innovation and progressive design with dynamic P7+ debut at Goodwood Festival of Speed",
+      "link": "https://www.automotiveworld.com/news-releases/xpeng-showcases-next-gen-innovation-and-progressive-design-with-dynamic-p7-debut-at-goodwood-festival-of-speed/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_17.webp"
     },
     {
-      "title": "Mercedes and PowerX open first dedicated fast-charging site in Japan",
-      "link": "https://www.electrive.com/2025/07/12/mercedes-and-powerx-open-first-dedicated-fast-charging-site-in-japan/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_19.webp",
-      "section": "Automakers News Alerts"
+      "title": "Lucid, Nuro, and Uber partner on next-generation autonomous robotaxi program",
+      "link": "https://www.greencarcongress.com/2025/07/20250718-lucid.html",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_18.webp"
     },
     {
-      "title": "Nvidia hits historic $4 trillion market cap",
-      "link": "https://www.just-auto.com/news/nvidias-hits-historic-4-trillion-market-cap/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_20.webp",
-      "section": "Suppliers News Alerts"
+      "title": "GM, LG Energy Solution JV to produce low-cost LFP battery cells in Tennessee",
+      "link": "https://www.just-auto.com/news/gm-lg-energy-solution-jv/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_19.webp"
     },
     {
-      "title": "Elektrobit introduces peripheral ECU software for SDVs",
-      "link": "https://www.just-auto.com/news/elektrobit-software-sdvs/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_21.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Baidu and Uber partnership to deploy AVs in global markets",
+      "link": "https://www.just-auto.com/news/baidu-uber-partnership-avs/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_20.webp"
     },
     {
-      "title": "ZF introduces TempAI to optimize EV electric motor thermal management",
-      "link": "https://chargedevs.com/newswire/zf-introduces-tempai-to-optimize-ev-electric-motor-thermal-management/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_22.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Daihatsu commences full-scale launch of used car subscription service Tsukinori",
+      "link": "https://www.automotiveworld.com/news-releases/daihatsu-commences-full-scale-launch-of-used-car-subscription-service-tsukinori/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_21.webp"
     },
     {
-      "title": "HERE Technologies partners with Nio\u2019s firefly to enhance EVs",
-      "link": "https://www.just-auto.com/news/here-technologies-nio-firefly/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_23.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Mitsubishi-Fuso launches major global hiring campaign",
+      "link": "https://www.just-auto.com/news/mitsubishi-fuso-launches-major-global-hiring-campaign/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_22.webp"
     },
     {
-      "title": "Motive launches new AI model to detect positive driver behaviours",
-      "link": "https://www.just-auto.com/news/motive-ai-model/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_24.webp",
-      "section": "Suppliers News Alerts"
+      "title": "GAC partners with Abdul Latif Jameel to enter the UK market and jointly advance new-energy vehicle development",
+      "link": "https://www.automotiveworld.com/news-releases/gac-partners-with-abdul-latif-jameel-to-enter-the-uk-market-and-jointly-advance-new-energy-vehicle-development/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_23.webp"
     },
     {
-      "title": "Castrol has announced a technical partnership with Zenvo Automotive to support final development of Aurora hybrid hypercar",
-      "link": "https://www.automotivepowertraintechnologyinternational.com/news/hybrid-powertrain-technologies/technical-partnership-announced-to-support-final-development-of-aurora-hybrid-hypercar.html",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_25.webp",
-      "section": "Suppliers News Alerts"
+      "title": "MAN records largest electric bus order yet in Spain",
+      "link": "https://www.electrive.com/2025/07/19/man-records-largest-electric-bus-order-yet-in-spain/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_24.webp"
     },
     {
-      "title": "Qualcomm and Momenta announce solutions for ADAS and autonomous driving",
-      "link": "https://telematicswire.net/momenta-and-qualcomm-announce-solutions-for-adas-and-autonomous-driving/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_26.webp",
-      "section": "Suppliers News Alerts"
+      "title": "DAF introduces chassis for car transport",
+      "link": "https://www.automotiveworld.com/news-releases/daf-introduces-chassis-for-car-transport/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_25.webp"
     },
     {
-      "title": "Continental using ashes of risotto rice husk for more sustainable fillers in tire rubber",
-      "link": "https://www.greencarcongress.com/2025/07/20250710-conti.html",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_27.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Mack Trucks unveils groundbreaking Mack Protect\u2122 safety system on the all-new Pioneer\u2122 highway truck",
+      "link": "https://www.automotiveworld.com/news-releases/mack-trucks-unveils-groundbreaking-mack-protect-safety-system-on-the-all-new-pioneer-highway-truck/",
+      "section": "Automakers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_26.webp"
     },
     {
-      "title": "Pirelli: First standard production tyre with over 70% bio-based and recycled materials",
-      "link": "https://www.automotiveworld.com/news-releases/pirelli-first-standard-production-tyre-with-over-70-bio-based-and-recycled-materials/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_28.webp",
-      "section": "Suppliers News Alerts"
+      "title": "ZF introduces cubiX Tuner for advanced chassis calibration for OEMs",
+      "link": "https://www.greencarcongress.com/2025/07/20250716-cubixtuner.html",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_27.webp"
     },
     {
-      "title": "Kapsch TrafficCom debuts next generation of V2X tolling for North America",
-      "link": "https://www.greencarcongress.com/2025/07/20250710-kapsch.html",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_29.webp",
-      "section": "Suppliers News Alerts"
+      "title": "LG brings premium streaming to new Kia models in Europe with WebOS Automotive Content Platform",
+      "link": "https://www.automotiveworld.com/news-releases/lg-brings-premium-streaming-to-new-kia-models-in-europe-with-webos-automotive-content-platform/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_28.webp"
     },
     {
-      "title": "ZF Chassis Health : Next-gen Smart Chassis Sensor - More data, more intelligence for the chassis system",
-      "link": "https://www.automotiveworld.com/news-releases/next-gen-smart-chassis-sensor-more-data-more-intelligence-for-the-chassis-system/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_30.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Huawei patents EV battery capable of 3,000 Km on a single charge",
+      "link": "https://telematicswire.net/huawei-patents-ev-battery-capable-of-3000-km-on-a-single-charge/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_29.webp"
     },
     {
-      "title": "Elaphe presents new high-performance in-wheel drive platform",
-      "link": "https://www.electrive.com/2025/07/08/elaphe-presents-new-high-performance-in-wheel-drive-platform/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_31.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Mobileye introduces driver monitoring system",
+      "link": "https://www.autonomousvehicleinternational.com/videos/mobileye-introduces-driver-monitoring-system.html",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_30.webp"
     },
     {
-      "title": "Hon Hai Research Institute unveils AI-enabled ModeSeQ that can read pedestrian and vehicle movements in a flash",
-      "link": "https://www.automotiveworld.com/news-releases/hon-hai-research-institute-unveils-ai-enabled-modeseq-that-can-read-pedestrian-and-vehicle-movements-in-a-flash/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_32.webp",
-      "section": "Suppliers News Alerts"
+      "title": "CATL & BHP announce development cooperation",
+      "link": "https://www.electrive.com/2025/07/14/catl-bhp-announce-development-cooperation/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_31.webp"
     },
     {
-      "title": "Ecarx deepens global strategic partnership with Samsung Group to build open technology ecosystem for automotive intelligence, robotics, and AI markets",
-      "link": "https://www.automotiveworld.com/news-releases/ecarx-deepens-global-strategic-partnership-with-samsung-group-to-build-open-technology-ecosystem-for-automotive-intelligence-robotics-and-ai-markets/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_33.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Panasonic Energy begins mass production at new automotive lithium-ion battery factory in Kansas, aiming for annual capacity of 32 GWh to accelerate U.S. local production",
+      "link": "https://www.automotiveworld.com/news-releases/panasonic-energy-begins-mass-production-at-new-automotive-lithium-ion-battery-factory-in-kansas-aiming-for-annual-capacity-of-32-gwh-to-accelerate-u-s-local-production/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_32.webp"
     },
     {
-      "title": "AEye\u2019s Apollo lidar is selected by Marjor OEM",
-      "link": "https://www.autonomousvehicleinternational.com/news/sensors/major-oem-selects-aeyes-apollo-lidar.html",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_34.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Allison Transmission partners with Maryland Transit Administration to bring eGen Flex\u00ae-equipped electric hybrid buses to Baltimore",
+      "link": "https://www.automotiveworld.com/news-releases/allison-transmission-partners-with-maryland-transit-administration-to-bring-egen-flex-equipped-electric-hybrid-buses-to-baltimore/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_33.webp"
     },
     {
-      "title": "Samsung cancels Mexican auto parts plant",
-      "link": "https://www.just-auto.com/news/samsung-cancels-mexican-auto-parts-plant/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_35.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Toshiba releases automotive photorelay with 1800V output withstand voltage",
+      "link": "https://www.automotiveworld.com/news-releases/toshiba-releases-automotive-photorelay-with-1800v-output-withstand-voltage/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_34.webp"
     },
     {
-      "title": "Tata Elxsi and Synopsys collaborate to accelerate software-defined vehicle development through advanced ECU virtualization capabilities",
-      "link": "https://www.automotiveworld.com/news-releases/tata-elxsi-and-synopsys-collaborate-to-accelerate-software-defined-vehicle-development-through-advanced-ecu-virtualization-capabilities/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_36.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Sensata Technologies launches High Efficiency Contactor to enable seamless 400V/800V EV charging compatibility",
+      "link": "https://www.automotiveworld.com/news-releases/sensata-technologies-launches-high-efficiency-contactor-to-enable-seamless-400v-800v-ev-charging-compatibility/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_35.webp"
     },
     {
-      "title": "Argonne researchers develop low-cost membrane to extract lithium from water",
-      "link": "https://chargedevs.com/newswire/argonne-researchers-develop-low-cost-membrane-to-extract-lithium-from-water/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_37.webp",
-      "section": "Suppliers News Alerts"
+      "title": "PPG collaborates with Lucid Motors to develop coatings for luxury EV brand",
+      "link": "https://www.automotiveworld.com/news-releases/ppg-collaborates-with-lucid-motors-to-develop-coatings-for-luxury-ev-brand/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_36.webp"
     },
     {
-      "title": "JAC & CATL battery swapping station ready for commercial vehicles across China",
-      "link": "https://www.electrive.com/2025/07/11/jac-catl-battery-swapping-station-ready-for-commercial-vehicles-across-china/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_38.webp",
-      "section": "Suppliers News Alerts"
+      "title": "A major Chinese OEM selects Valeo\u2019s innovative panoramic head-up display for its new model",
+      "link": "https://www.automotiveworld.com/news-releases/a-major-chinese-oem-selects-valeos-innovative-panoramic-head-up-display-for-its-new-model/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_37.webp"
     },
     {
-      "title": "Vinli to be part of Stellantis\u2019 vehicle telematics ecosystem",
-      "link": "https://telematicswire.net/vinli-to-be-part-of-stellantis-vehicle-telematics-ecosystem/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_39.webp",
-      "section": "Suppliers News Alerts"
+      "title": "Mahle invests in global knowledge transfer",
+      "link": "https://www.automotiveworld.com/news-releases/mahle-invests-in-global-knowledge-transfer/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_38.webp"
     },
     {
-      "title": "Nidec Drive Technology\u2019s omnidirectional drive unit to be adopted for use in Honda\u2019s new \u201cUNI-ONE\u201d",
-      "link": "https://www.greencarcongress.com/2025/07/20250708-nidec.html",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_40.webp",
-      "section": "Suppliers News Alerts"
+      "title": "ECARX, Samsung partner for computing platform and intelligent driving",
+      "link": "https://telematicswire.net/ecarx-samsung-partner-for-computing-platform-and-intelligent-driving/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_39.webp"
     },
     {
-      "title": "NY awarding $3M to 3 EV grid integration projects",
-      "link": "https://www.greencarcongress.com/2025/07/20250709-ny.html",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_41.webp",
-      "section": "Government News Alerts"
+      "title": "BHP to explore opportunities in battery technology and electrification with BYD, CATL",
+      "link": "https://www.greencarcongress.com/2025/07/20250715-bhp.html",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_40.webp"
     },
     {
-      "title": "India opens tender for 10,900 electric buses",
-      "link": "https://www.electrive.com/2025/07/09/india-opens-tender-for-10900-electric-buses/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_42.webp",
-      "section": "Government News Alerts"
+      "title": "Autoneum\u2019s Sustainable sound insulation for vehicles",
+      "link": "https://www.automotiveinteriorsworld.com/news/materials/sustainable-sound-insulation-for-vehicles.html",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_41.webp"
     },
     {
-      "title": "EU invests \u20ac852M in six EV battery production projects",
-      "link": "https://www.electrive.com/2025/07/07/eu-awards-funding-to-six-battery-production-projects/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_43.webp",
-      "section": "Government News Alerts"
+      "title": "Major Chinese automaker selects Valeo\u2019s cutting-edge 5-in-1 Deep Integration Power Electronics Module",
+      "link": "https://www.automotiveworld.com/news-releases/major-chinese-automaker-selects-valeos-cutting-edge-5-in-1-deep-integration-power-electronics-module/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_42.webp"
     },
     {
-      "title": "Government subsidies drive China\u2019s vehicle market up",
-      "link": "https://www.just-auto.com/news/government-subsidies-drive-chinas-vehicle-market-up-globaldata/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_44.webp",
-      "section": "Government News Alerts"
+      "title": "TIER IV unveils end-to-end architecture for Level 4+ autonomy: To be demonstrated across 50 locations nationwide",
+      "link": "https://www.automotiveworld.com/news-releases/tier-iv-unveils-end-to-end-architecture-for-level-4-autonomy-to-be-demonstrated-across-50-locations-nationwide/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_43.webp"
     },
     {
-      "title": "US tax credit for EVs to end in September",
-      "link": "https://www.electrive.com/2025/07/07/official-us-tax-credit-for-evs-to-end-in-september/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_45.webp",
-      "section": "Government News Alerts"
+      "title": "TDK introduces thin-film power inductors for automotive applications with higher currents",
+      "link": "https://chargedevs.com/newswire/tdk-introduces-thin-film-power-inductors-for-automotive-applications-with-higher-currents/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_44.webp"
     },
     {
-      "title": "Luxembourg bus operators accused of subsidy fraud",
-      "link": "https://www.electrive.com/2025/07/08/luxembourg-bus-operators-accused-of-subsidy-fraud/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_46.webp",
-      "section": "Government News Alerts"
+      "title": "Apera AI unveils Vue 9.50: Leading 4D Vision software for unsurpassed real-world industrial robotic performance",
+      "link": "https://www.automotiveworld.com/news-releases/apera-ai-unveils-vue-9-50-leading-4d-vision-software-for-unsurpassed-real-world-industrial-robotic-performance/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_45.webp"
     },
     {
-      "title": "EV sales in Austria rise by 42 per cent",
-      "link": "https://www.electrive.com/2025/07/10/ev-sales-in-austria-rise-by-42-per-cent/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_47.webp",
-      "section": "Government News Alerts"
+      "title": "May Mobility launches ride-hail API",
+      "link": "https://www.autonomousvehicleinternational.com/news/robotaxis/may-mobility-launches-ride-hail-api.html",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_46.webp"
     },
     {
-      "title": "Helsinki pilot uses AI to boost e-scooter safety",
-      "link": "https://www.electrive.com/2025/07/07/helsinki-pilot-uses-ai-to-boost-e-scooter-safety/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_48.webp",
-      "section": "Government News Alerts"
+      "title": "PowerX and Mercedes-Benz launch EV charging hub in Japan",
+      "link": "https://chargedevs.com/newswire/powerx-and-mercedes-benz-launch-ev-charging-hub-in-japan/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_47.webp"
     },
     {
-      "title": "South Australia gains its first state-wide charging network",
-      "link": "https://www.electrive.com/2025/07/07/south-australia-gains-its-first-state-wide-charging-network/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_49.webp",
-      "section": "Government News Alerts"
+      "title": "Aeva to accelerate scaled production of 4D LiDAR for autonomous trucks in collaboration with Daimler Truck North America",
+      "link": "https://www.automotiveworld.com/news-releases/aeva-to-accelerate-scaled-production-of-4d-lidar-for-autonomous-trucks-in-collaboration-with-daimler-truck-north-america/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_48.webp"
     },
     {
-      "title": "Belgium: EnergyVision to install 5,000 EV charging points for SNCB",
-      "link": "https://www.electrive.com/2025/07/08/belgium-energyvision-to-install-5000-ev-charging-points-for-sncb/",
-      "image": "https://fs-moads.com/research/images/mailer/jul_14/img_50.webp",
-      "section": "Government News Alerts"
+      "title": "Faraday X unveils two groundbreaking global-first products along with a transformative technology architecture \u2013 the FX Super One EAI-MPV, the FF Super EAI F.A.C.E. System, and the FF EAI Embodied Intelligence AI Agent 6\u00d74 Architecture",
+      "link": "https://www.automotiveworld.com/news-releases/faraday-x-unveils-two-groundbreaking-global-first-products-along-with-a-transformative-technology-architecture-the-fx-super-one-eai-mpv-the-ff-super-eai-f-a-c-e-system-and-the-ff-eai-embodied-int/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_49.webp"
+    },
+    {
+      "title": "Motive launches \u2018Positive Driving\u2019 an AI model for positive driver behavior detection",
+      "link": "https://telematicswire.net/motive-launches-positive-driving-an-ai-model-for-positive-driver-behavior-detection/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_50.webp"
+    },
+    {
+      "title": "BP divests from petrol station and charging business in the Netherlands",
+      "link": "https://www.electrive.com/2025/07/14/bp-divests-from-petrol-station-and-charging-business-in-the-netherlands/",
+      "section": "Suppliers News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_51.webp"
+    },
+    {
+      "title": "UK introduces $3.37bn programme for zero-emission vehicle development",
+      "link": "https://www.just-auto.com/news/uk-programme-zero-emission/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_52.webp"
+    },
+    {
+      "title": "China restricts battery cathode material technology exports",
+      "link": "https://www.electrive.com/2025/07/15/china-restricts-battery-cathode-material-technology-exports/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_53.webp"
+    },
+    {
+      "title": "US imposes additional duties on Chinese anode graphite",
+      "link": "https://www.electrive.com/2025/07/18/us-imposes-additional-duties-on-chinese-anode-graphite/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_54.webp"
+    },
+    {
+      "title": "UK providing \u00a363M to support at-home charging",
+      "link": "https://www.greencarcongress.com/2025/07/20250714-uk.html",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_55.webp"
+    },
+    {
+      "title": "UK launches new multi-billion pound push for electric mobility",
+      "link": "https://www.electrive.com/2025/07/14/uk-launches-new-multi-billion-pound-push-for-electric-mobility/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_56.webp"
+    },
+    {
+      "title": "Scotland launches \u00a32 million fund to accelerate HGV decarbonisation",
+      "link": "https://www.electrive.com/2025/07/14/scotland-launches-2-million-fund-to-accelerate-hgv-decarbonisation/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_57.webp"
+    },
+    {
+      "title": "Italy\u2019s SETA announces tender for 28 electric midi buses",
+      "link": "https://www.electrive.com/2025/07/17/seta-announces-tender-for-28-electric-midi-buses-in-italy/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_58.webp"
+    },
+    {
+      "title": "UK launches \u00a3650m grant scheme to cut electric car prices",
+      "link": "https://www.just-auto.com/news/uk-grant-scheme/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_59.webp"
+    },
+    {
+      "title": "California to hold series of public sessions in effort to advance progress on zero emission vehicle adoption",
+      "link": "https://www.greencarcongress.com/2025/07/20250716-carb.html",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_60.webp"
+    },
+    {
+      "title": "France relaunches EV leasing scheme for low-income households",
+      "link": "https://www.electrive.com/2025/07/17/france-relaunches-ev-leasing-scheme-for-low-income-households/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_61.webp"
+    },
+    {
+      "title": "South China city grants road test licenses for autonomous vehicles",
+      "link": "https://telematicswire.net/south-china-city-grants-road-test-licenses-for-autonomous-vehicles/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_62.webp"
+    },
+    {
+      "title": "UK launches ten-year \u2018DRIVE35\u2019 R&D funding support",
+      "link": "https://www.just-auto.com/news/uk-launches-ten-year-drive35-rd-funding-support/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_63.webp"
+    },
+    {
+      "title": "Ontario government supports investment in KA Imaging to advance EV battery component testing",
+      "link": "https://www.automotivepowertraintechnologyinternational.com/news/battery-management/ontario-government-supports-investment-in-ka-imaging-to-advance-ev-battery-component-testing.html",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_64.webp"
+    },
+    {
+      "title": "Hanoi to ban ICE motorcycles in the city centre",
+      "link": "https://www.electrive.com/2025/07/16/hanoi-to-ban-ice-motorcycles-in-the-city-centre/",
+      "section": "Government News Alerts",
+      "image": "https://fs-moads.com/research/images/mailer/jul_21/img_65.webp"
     }
   ]
 }
