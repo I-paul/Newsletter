@@ -24,7 +24,7 @@ const Navbar = () => {
           <a href="#auto">Automaker News</a>
           <a href="#supplier">Supplier News</a>
           <a href="#government">Government News</a>
-          <a href="#Webinar">Webinar</a>
+          {/* <a href="#Webinar">Webinar</a> */}
         </div>
         <button
           className="hamburger z-300"
@@ -48,7 +48,7 @@ const Navbar = () => {
             <a href="#auto" onClick={() => setHamburger(false)}>Automaker News</a>
             <a href="#supplier" onClick={() => setHamburger(false)}>Supplier News</a>
             <a href="#government" onClick={() => setHamburger(false)}>Government News</a>
-            <a href="#Webinar" onClick={() => setHamburger(false)}>Webinar</a>
+            {/* <a href="#Webinar" onClick={() => setHamburger(false)}>Webinar</a> */}
           </motion.div>
         )}
       </AnimatePresence>
