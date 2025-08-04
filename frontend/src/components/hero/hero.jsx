@@ -14,14 +14,14 @@ const Hero = () => {
     <section className="hero-section">
       <div className="relative w-full h-[320px] font-[var(--font-main)] bg-gradient-to-tl from-[var(--brand-accent)] to-[var(--info)]">
         <motion.img
-          src='https://fs-moads.com/research/images/mailer/jul_28/banner.jpg'
+          src='https://fs-moads.com/research/images/mailer/aug_4/banner.webp'
           alt="Newsletter Banner"
           className="w-full h-full object-cover border-b-4 border-[var(--brand-accent)] absolute mix-blend-overlay"
           initial={{ opacity: 0, scale: 1.05 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, ease: "easeOut" }}
         />
-        <div className="p-3 w-full h-[320px] absolute cursor-default justify-center md:p-10 text-[var(--text-light)]">
+        <div className="p-3 w-full h-[320px] absolute cursor-default justify-center md:p-10 text-black">
           <div className="text-2xl pl-[0.5rem] pt-16 font-bold md:text-4xl md:pl-[2rem] lg:pl-[4rem] ">
             THE WEEK IN MOBILITY
           </div>
