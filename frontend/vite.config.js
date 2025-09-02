@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  base: '/research/mobilitynewstracker/aug_4/dist/',
+  base: '/research/mobilitynewstracker/sep_1/dist/',
   plugins: [react(),
     tailwindcss (),
   ],
